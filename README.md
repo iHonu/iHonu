@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
-<!--
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 **iHonu/iHonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
