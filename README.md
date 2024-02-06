@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5498A9&vCenter=true&random=false&width=435&lines=Hello!+%F0%9F%91%8B+;My+name+is+Anastasia++%F0%9F%91%A9;%F0%9F%92%BB++Fullstack+web+developer;Located+in+Almere%2C+NL++%F0%9F%87%B3%F0%9F%87%B1)](https://git.io/typing-svg)
 
-##My most favorite tools are:
-[![My most favorite](https://skillicons.dev/icons?i=nextjs,tailwind,prisma)](https://skillicons.dev)
+## My most favorite tools are:
 
-##But I also use:
+[![My most favorite](https://skillicons.dev/icons?i=nextjs,tailwind,prisma)](https://skillicons.dev) 
+
+## But I also use:
+
 [![But I have skills in](https://skillicons.dev/icons?i=js,html,css,js,react,ts,figma,git,mongodb,mysql,sqlite,supabase,redux,sass,materialui )](https://skillicons.dev)
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
